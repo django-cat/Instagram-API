@@ -1,5 +1,5 @@
-# Instgram Backend API
-> **Django REST Framework**
+# Instgram API
+> **Django REST Framework Instagram API**
 
 ## Tech
 * **Django REST Framework(DRF)**
